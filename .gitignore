@@ -1,0 +1,8 @@
+mlflow
+notebooks/models
+notebooks/scratchpads
+notebooks/.ipynb_checkpoints
+**/.DS_store
+notebooks/feature.png
+notebooks/logs.log
+
